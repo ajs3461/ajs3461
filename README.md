@@ -14,5 +14,5 @@
 * 문명
   * 베네치아<br>
   ![image](https://user-images.githubusercontent.com/39671049/143733820-a23e173b-9fda-4e91-b886-954dfd050198.png)
-* 엄준식
+* 엄준식<
   ![image](https://user-images.githubusercontent.com/39671049/143733828-7c895662-80e0-472e-ac1a-195bb47f3687.png)
